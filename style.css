@@ -19,7 +19,7 @@ body{
 
 /* NAVBAR */
 
-.navDesignHolder{
+/* .navDesignHolder{
   position: relative;
   margin: 0;
   padding: 0;
@@ -65,7 +65,7 @@ body{
   text-decoration: none;
   color:white;
   transition: opacity .3s;
-}
+} */
 
 /* NAVBAR */
 
@@ -181,8 +181,8 @@ body{
 .mainCarousel {
   position: relative;
   width: 100%;
-  height: 100%;
 }
+
 .mainCarousel::after {
   position: absolute;
   bottom: 0;
